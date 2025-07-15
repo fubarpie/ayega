@@ -19,7 +19,7 @@ Our roadmap includes training and providing new, permissively licensed models to
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/fubarpe/ayega.git](https://github.com/fubarpe/ayega.git)
+    git clone [https://github.com/fubarpie/ayega.git](https://github.com/fubarpie/ayega.git)
     ```
 2.  **Open in Android Studio:** Open the cloned directory in the latest version of Android Studio.
 3.  **Build the APK:** From the menu, select `Build` > `Build Bundle(s) / APK(s)` > `Build APK(s)`.
