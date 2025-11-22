@@ -1,5 +1,7 @@
 # Ayega
 
+Ayega is under early development and is not functioning yet. 
+
 Ayega is an open-source Android application that gives you control over your device's wake word. It allows you to choose a custom wake word to activate your preferred voice assistant. This project is built using the [openWakeWord](https://github.com/dscripka/openWakeWord) framework.
 
 ## 🚀 Features
